@@ -104,8 +104,10 @@ GEM Watchdog aims to enhance the GeM platform's efficiency, transparency, and us
 ---
 
 ## Flow Chart
+SIH Infra Diagram
 
-![SIH Infra Diagram](https://github.com/Geoffrey-Anto/sih-2023/assets/70687348/77ec01d5-9f93-4639-91ae-28575de293ff)
+![image](https://github.com/Kushagra102/sih-2023/assets/96788948/6b43a1f2-59a4-4d1e-8900-9e4ce291cd47)
+
 
 ---
 
